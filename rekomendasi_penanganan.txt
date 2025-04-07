@@ -1,0 +1,19 @@
+- Kolom 'PoolQC' memiliki 99.52% nilai hilang → Disarankan untuk DIHAPUS.
+- Kolom 'MiscFeature' memiliki 96.30% nilai hilang → Disarankan untuk DIHAPUS.
+- Kolom 'Alley' memiliki 93.77% nilai hilang → Disarankan untuk DIHAPUS.
+- Kolom 'Fence' memiliki 80.75% nilai hilang → Disarankan untuk DIHAPUS.
+- Kolom 'MasVnrType' memiliki 59.73% nilai hilang → Disarankan untuk DIHAPUS.
+- Kolom 'FireplaceQu' memiliki 47.26% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'LotFrontage' memiliki 17.74% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'GarageType' memiliki 5.55% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'GarageYrBlt' memiliki 5.55% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'GarageFinish' memiliki 5.55% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'GarageQual' memiliki 5.55% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'GarageCond' memiliki 5.55% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'BsmtExposure' memiliki 2.60% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'BsmtFinType2' memiliki 2.60% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'BsmtQual' memiliki 2.53% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'BsmtCond' memiliki 2.53% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'BsmtFinType1' memiliki 2.53% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'MasVnrArea' memiliki 0.55% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
+- Kolom 'Electrical' memiliki 0.07% nilai hilang → Bisa dipertimbangkan untuk diISI (imputasi).
